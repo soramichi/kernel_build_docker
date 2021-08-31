@@ -1,4 +1,4 @@
-FROM debian:bullseye
+FROM debian:bookworm
 MAINTAINER Soramichi Akiyama <akiyama@m.soramichi.jp>
 
 RUN apt-get update && \
